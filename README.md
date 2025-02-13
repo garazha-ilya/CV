@@ -14,4 +14,3 @@
 2. [Документирование в Julia](https://engee.com/community/ru/catalogs/projects/dokumentirovanie-koda-v-engee)
 3. [Представления (views) в Julia](https://engee.com/community/ru/catalogs/projects/predstavleniia-views-kak-sposob-povysit-bystrodeistvie)
 
-В файле Examples/Types.ipynb лежит пример заготовки статьи на Хабр, для повышения доступности Julia для русскоговорящих новичков.
